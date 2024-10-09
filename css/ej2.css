@@ -1,0 +1,11 @@
+.titulopagina{
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    border-right: 3px solid red;
+    border-bottom: 3px solid red;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgb(248, 240, 165);
+}
