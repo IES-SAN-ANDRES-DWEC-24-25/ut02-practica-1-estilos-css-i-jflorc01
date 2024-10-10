@@ -1,0 +1,21 @@
+#uno, #dos{
+    padding-top: 100px;
+    background-color: rgb(255, 255, 103);
+    padding-left: 30px;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+}
+
+#uno{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-top: 1px solid red;
+}
+
+#dos{
+    border-bottom: 1px solid red;
+}
+
+#tres{
+    font-weight: bold;
+}
